@@ -1,6 +1,6 @@
 ## Ola, me chamo Enrick Santos
 
-⚡ Sou programador Front-end Junior⚡
+⚡ Tenho foco no desenvolvimento Front-End⚡
 </br> 
 ⚡ Estudando React-Native⚡
 
