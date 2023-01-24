@@ -2,7 +2,7 @@
 
 ⚡ Tenho foco no desenvolvimento Front-End⚡
 </br> 
-⚡ Estudando React js⚡
+⚡ Estudando Javascript⚡
 
 
 
