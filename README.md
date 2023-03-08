@@ -1,6 +1,6 @@
 ## Ola, me chamo Enrick Santos
 
-⚡ Sou desenvolvedor Front-End ⚡
+⚡ Sou desenvolvedor Front-End ⚡ </br>
 ⚡ Estudante de UIDesign ⚡
 
 </br> 
